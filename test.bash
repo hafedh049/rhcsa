@@ -29,3 +29,7 @@ repertoire(ocatl calc), else literal
 -
 (002) = rw-rw-r--
 (bch ntal3ou el umask et vice versa)
+
+
+------------------------------------
+2 -a chage -d0 user1
