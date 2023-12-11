@@ -15,4 +15,4 @@ QCM
 8 - c
 9 - chown :users a.out / chgrp users a.out
 10 - find / -name "*.sql"(el * mahich obligatoire)
-11 -
+11 - SUID,SGID,SB(4,2,1)
