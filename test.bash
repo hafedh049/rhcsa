@@ -32,4 +32,4 @@ repertoire(ocatl calc), else literal
 
 
 ------------------------------------
-2 -a: chage -d0 user1, usermod -aG wheel user1 || ajouter la config /etc/sudoers -> user1 ALL[all commands]=(ALL)[privileges] ALL
+2 -a: chage -d0 user1, usermod -aG wheel user1 || ajouter la config /etc/sudoers -> user1 ALL[all commands]=(ALL)[privileges,specified commands] ALL[NOPASSWD:ALL(without password)]
