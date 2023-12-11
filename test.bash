@@ -60,5 +60,7 @@ time=`tr -s ' ' '%' $i | cut -d% -f4`
 if [ $time -ge  8:00 ] && [ $time -lt 20 ]
 then
 echo $user
+else
+echo $user
 fi
 done
