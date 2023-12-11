@@ -46,3 +46,4 @@ repertoire(ocatl calc), else literal
 6: chown user2(user):user(group) /...
 
 Script Shell
+who: show all connected users
