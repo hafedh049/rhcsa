@@ -42,3 +42,5 @@ repertoire(ocatl calc), else literal
       setfacl -x(delete an facl) g:tekup /home/tekup
       setfacl -b /home/tekup (delete all acls)
       setfacl -k(delete the newed added ones, by default ones(-d)) /home/tekup
+
+6: chown user2(user):user(group) /...
