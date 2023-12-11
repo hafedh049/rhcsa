@@ -49,3 +49,12 @@ Script Shell
 who: show all connected users
 tr -s " " "x" : -s-> any number of spaces
 cat -dx(delimiter) f1,4(field)
+
+#! /bin/bash
+
+for i in `who`
+do
+(pipe yji ma3 el commande)
+user=`tr -s ' ' '%' $i | cut -d% -f1`
+time=`tr -s ' ' '%' $i | cut -d% -f4`
+done
