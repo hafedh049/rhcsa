@@ -48,4 +48,4 @@ repertoire(ocatl calc), else literal
 Script Shell
 who: show all connected users
 tr -s " " "x" : -s-> any number of spaces
-cat -dx(delimiter) f4(field)
+cat -dx(delimiter) f1,4(field)
