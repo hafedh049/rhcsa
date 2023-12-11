@@ -32,4 +32,4 @@ repertoire(ocatl calc), else literal
 
 
 ------------------------------------
-2 -a chage -d0 user1
+2 -a: chage -d0 user1, usermod -aG wheel user1
