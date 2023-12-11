@@ -21,4 +21,5 @@ EX1
 rwx r-- r-- -> 744
 rw- r-S(s if x exist) --- -> 2640
 rw- rws r-- -> 2674
+-wx rws rwT(same) -> 557
 rw- rw- r-- -> 0664
