@@ -36,3 +36,4 @@ repertoire(ocatl calc), else literal
   -b: chage -M30 -W6 -E 2024-01-01 user2  (ken 3tanich date ray maximum)
 3 -a: groupadd -g 5000 tekup
 4 -a: usermod -g users -aG tekup user1
+  -b: usermod -g tekup -aG users user2
