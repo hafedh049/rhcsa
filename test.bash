@@ -37,3 +37,4 @@ repertoire(ocatl calc), else literal
 3 -a: groupadd -g 5000 tekup
 4 -a: usermod -g users -aG tekup user1
   -b: usermod -g tekup -aG users user2
+5 -a: ACL(ll others)
