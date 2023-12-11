@@ -25,3 +25,6 @@ rw- rws r-- -> 2674
 rw- rw- r-- -> 0664
 -----------------------------------------
 repertoire(ocatl calc), else literal
+666 = rw-rw-rw-
+-
+(002) = rw-rw-r--
