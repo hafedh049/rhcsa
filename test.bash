@@ -41,3 +41,4 @@ repertoire(ocatl calc), else literal
   -b: setfacl -R(old) -d(new) -m(9bal el m) g:tekup:rwx /home/tekup
       setfacl -x(delete an facl) g:tekup /home/tekup
       setfacl -b /home/tekup (delete all acls)
+      setfacl -k(delete the newed added ones, by default ones(-d)) /home/tekup
