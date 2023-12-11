@@ -16,3 +16,7 @@ QCM
 9 - chown :users a.out / chgrp users a.out
 10 - find / -name "*.sql"(el * mahich obligatoire) (locate search using names only)
 11 - SUID,SGID,SB(4,2,1) chmod 2755 sync.sh / chmod(cahnge moderators) g+s sync.sh
+
+EX1
+rwx r-- r-- -> 744
+rw- r-S(s if x exist) --- -> 26
