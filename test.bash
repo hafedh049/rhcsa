@@ -44,3 +44,5 @@ repertoire(ocatl calc), else literal
       setfacl -k(delete the newed added ones, by default ones(-d)) /home/tekup
 
 6: chown user2(user):user(group) /...
+
+Script Shell
