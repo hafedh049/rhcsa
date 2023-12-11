@@ -19,4 +19,4 @@ QCM
 
 EX1
 rwx r-- r-- -> 744
-rw- r-S(s if x exist) --- -> 26
+rw- r-S(s if x exist) --- -> 2640
