@@ -28,3 +28,4 @@ repertoire(ocatl calc), else literal
 666 = rw-rw-rw-
 -
 (002) = rw-rw-r--
+(bch ntal3ou el umask et vice versa)
