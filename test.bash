@@ -24,3 +24,4 @@ rw- rws r-- -> 2674
 -wx rws rwT(same) -> 5576
 rw- rw- r-- -> 0664
 -----------------------------------------
+repertoire(ocatl calc), else literal
