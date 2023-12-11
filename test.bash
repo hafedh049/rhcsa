@@ -57,4 +57,8 @@ do
 (pipe yji ma3 el commande)
 user=`tr -s ' ' '%' $i | cut -d% -f1`
 time=`tr -s ' ' '%' $i | cut -d% -f4`
+if [ $time -ge  8 && $time -lt 20]
+then
+echo $user
+fi
 done
