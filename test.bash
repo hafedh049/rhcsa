@@ -39,3 +39,4 @@ repertoire(ocatl calc), else literal
   -b: usermod -g tekup -aG users user2
 5 -a: ACL(lil others(ken mich owner wila group proprietaire donc ACL), ynajm ygoulhelkch) setfacl -m u:user1:rw /etc/hosts
   -b: setfacl -R(old) -d(new) -m(9bal el m) g:tekup:rwx /home/tekup
+      setfacl -x(delete an facl) g:tekup /home/tekup
