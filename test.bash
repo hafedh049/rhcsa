@@ -47,3 +47,4 @@ repertoire(ocatl calc), else literal
 
 Script Shell
 who: show all connected users
+tr -s " " "x" : -s-> any number of spaces
