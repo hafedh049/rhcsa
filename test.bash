@@ -34,4 +34,4 @@ repertoire(ocatl calc), else literal
 ------------------------------------
 2 -a: chage -d0 user1, usermod -aG wheel user1 || ajouter la config /etc/sudoers -> user1 ALL[all commands]=(ALL)[privileges,specified commands] ALL[NOPASSWD:ALL(without password)]
   -b: chage -M30 -W6 -E 2024-01-01 user2  (ken 3tanich date ray maximum)
-3 -a:
+3 -a: groupadd -g 5000 tekup
